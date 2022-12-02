@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ziadamr99
+- 👋 Hi, I’m Ziad Mohamed
 - 👀 I’m interested in Software engineering
 - 🌱 I’m currently learning Python data structures and algorithm as well as learning the web development fudementals
 - 📫 How to reach me : ziadamr34999@gmail.com
