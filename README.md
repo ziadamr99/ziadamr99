@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ziad Mohamed
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Python data structures and algorithm as well as learning the web development fudementals
+- 👀 I’m interested in AI
+- 🌱 I’m currently a Phd student where my research focuses on neuromorphic computing 
 - 📫 How to reach me : ziadamr34999@gmail.com
 
 <!---
