@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ziad Mohamed
 - 👀 I’m interested in AI
-- 🌱 I’m currently a Phd student where my research focuses on neuromorphic computing 
+- 🌱 I’m currently a PhD student where my research focuses on neuromorphic computing 
 - 📫 How to reach me : ziadamr34999@gmail.com
 
 <!---
